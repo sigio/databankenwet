@@ -2,7 +2,7 @@
 
 Databankenwet
 Geraadpleegd op 11-08-2023.
-Geldend van 26-03-2008 t/m 31-08-2017
+Geldend van 01-09-2017 t/m 10-10-2018
 
 Wet van 8 juli 1999, houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken
 
@@ -74,7 +74,7 @@ Degene die opzettelijk en zonder daartoe gerechtigd te zijn elektronische inform
 Artikel 5c.
 	1.	Inbreuk op het recht genoemd in artikel 2 en inbreuk op het in artikel 5a, eerste en tweede lid, of artikel 5b bepaalde, geeft de bevoegdheid het geheel of een deel van de inhoud van de databank als bedoeld in artikel 2 en inrichtingen, producten en onderdelen als bedoeld in artikel 5a of databanken als bedoeld in artikel 5b als zijn eigendom op te eisen dan wel onttrekking aan het handelsverkeer, vernietiging of onbruikbaarmaking daarvan te vorderen. Gelijke bevoegdheid bestaat ten aanzien van roerende zaken die geen registergoederen zijn en die rechtstreeks hebben gediend tot de vervaardiging van de inrichtingen, producten en onderdelen, bedoeld in de eerste zin.
 	2.	De bepalingen van het Wetboek van Burgerlijke Rechtsvordering betreffende beslag en executie tot afgifte van roerende zaken die geen registergoederen zijn, zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor.
-	3.	De maatregelen bedoeld in het eerste lid worden op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten.
+	3.	De maatregelen bedoeld in het eerste lid worden op kosten van de verweerder uitgevoerd, tenzij bijzondere redenen dit beletten.
 	4.	Tenzij anders is overeengekomen, heeft de licentienemer het recht de uit het eerste lid voortvloeiende bevoegdheden uit te oefenen, voor zover deze strekken tot bescherming van de rechten waarvan de uitoefening hem is toegestaan.
 	5.	De rechter kan op vordering van de producent degene die inbreuk op diens recht heeft gemaakt, bevelen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de databanken en delen van databanken die inbreuk maken, aan de gerechtigde mee te delen en alle daarop betrekking hebbende gegevens aan deze te verstrekken. Onder dezelfde voorwaarden kan dit bevel worden gegeven aan een derde die op commerciële schaal inbreukmakende databanken of delen van databanken in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze databanken of delen van databanken of bij het verlenen van deze diensten. Deze derde kan zich verschonen van het verstrekken van informatie die bewijs zou vormen van deelname aan een inbreuk op een recht van intellectuele eigendom door hem zelf of door de andere in artikel 165, derde lid, Wetboek van Burgerlijke Rechtsvordering bedoelde personen.
 	6.	Bij de beoordeling van de maatregelen die de producent of diens licentienemer kan vorderen ingevolge de bevoegdheden, genoemd in het eerste lid, houdt de rechter rekening met de noodzakelijke evenredigheid tussen de ernst van de inbreuk en de gevorderde maatregelen en met de belangen van derden.
@@ -82,7 +82,7 @@ Artikel 5c.
 Artikel 5d.
 	1.	Naast schadevergoeding kan de producent van de databank of zijn rechtverkrijgende vorderen dat degene die inbreuk op het databankrecht heeft gemaakt, wordt veroordeeld de door deze ten gevolge van de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen.
 	2.	In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
-	3.	De producent of diens rechtverkrijgende kan de in het eerste lid bedoelde vorderingen of een van deze ook namens of mede namens een licentienemer instellen, onverminderd de bevoegdheid van deze laatste in een al of niet namens hem of mede namens hem door de producent of diens rechtverkrijgende ingesteld geding tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of om zich een evenredig deel van de door de gedaagde af te dragen winst te doen toewijzen. De in het eerste lid bedoelde vorderingen of een van deze kan een licentienemer slechts instellen als hij bevoegdheid daartoe van de producent of diens rechtverkrijgende heeft bedongen.
+	3.	De producent of diens rechtverkrijgende kan de in het eerste lid bedoelde vorderingen of een van deze ook namens of mede namens een licentienemer instellen, onverminderd de bevoegdheid van deze laatste in een al of niet namens hem of mede namens hem door de producent of diens rechtverkrijgende ingesteld geding tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of om zich een evenredig deel van de door de verweerder af te dragen winst te doen toewijzen. De in het eerste lid bedoelde vorderingen of een van deze kan een licentienemer slechts instellen als hij bevoegdheid daartoe van de producent of diens rechtverkrijgende heeft bedongen.
 
 Artikel 5e.
 
