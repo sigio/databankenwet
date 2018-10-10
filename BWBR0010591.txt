@@ -2,7 +2,7 @@
 
 Databankenwet
 Geraadpleegd op 11-08-2023.
-Geldend van 01-09-2017 t/m 10-10-2018
+Geldend van 11-10-2018 t/m 06-06-2021
 
 Wet van 8 juli 1999, houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken
 
@@ -50,11 +50,11 @@ Artikel 4.
 De rechtmatige gebruiker van een databank welke op enigerlei wijze aan het publiek ter beschikking is gesteld, mag geen handelingen verrichten waardoor hij de normale exploitatie van de databank in gevaar brengt of ongerechtvaardigde schade aan de producent toebrengt.
 
 Artikel 5.
-
-De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek ter beschikking is gesteld mag zonder toestemming van de producent van de databank een substantieel deel van de inhoud van de databank:
-	a.	opvragen voor privé doeleinden, mits het een niet-elektronische databank betreft;
-	b.	opvragen ter illustratie bij onderwijs of voor wetenschappelijk onderzoek, met bronvermelding en voor zover door het niet-commerciële doel gerechtvaardigd;
-	c.	opvragen of hergebruiken voor de openbare veiligheid of in het kader van een administratieve of rechterlijke procedure.
+	1.	De rechtmatige gebruiker van een databank die op enigerlei wijze aan het publiek ter beschikking is gesteld mag zonder toestemming van de producent van de databank een substantieel deel van de inhoud van de databank:
+		a.	opvragen voor privé doeleinden, mits het een niet-elektronische databank betreft;
+		b.	opvragen ter illustratie bij onderwijs of voor wetenschappelijk onderzoek, met bronvermelding en voor zover door het niet-commerciële doel gerechtvaardigd;
+		c.	opvragen of hergebruiken voor de openbare veiligheid of in het kader van een administratieve of rechterlijke procedure.
+	2.	De artikelen 15j tot en met 15m, 16g en 17d van de Auteurswet zijn van overeenkomstige toepassing.
 
 Artikel 5a.
 	1.	Degene, die doeltreffende technische voorzieningen omzeilt en dat weet of redelijkerwijs behoort te weten, handelt onrechtmatig.
@@ -65,7 +65,8 @@ Artikel 5a.
 		c)	vooral ontworpen, vervaardigd of aangepast worden met het doel het omzeilen van de beschermende werking van doeltreffende technische voorzieningen mogelijk of gemakkelijker te maken,
 
 handelt onrechtmatig.
-	3.	Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 5 de nodige middelen te verschaffen om van deze beperking te profiteren, mits de gebruiker rechtmatig toegang tot de door de technische voorziening beschermde databank heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van databanken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd. Artikel 17d van de Auteurswet 1912 is van overeenkomstige toepassing.
+	3.	Bij algemene maatregel van bestuur kunnen regelen worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor doeleinden als omschreven in artikel 5, eerste lid, de nodige middelen te verschaffen om van deze beperking te profiteren, mits de gebruiker rechtmatig toegang tot de door de technische voorziening beschermde databank heeft. Het bepaalde in de voorgaande zin geldt niet ten aanzien van databanken die onder contractuele voorwaarden aan gebruikers beschikbaar worden gesteld op een door hen individueel gekozen plaats en tijd. Artikel 17d van de Auteurswet 1912 is van overeenkomstige toepassing.
+	4.	Bij algemene maatregel van bestuur kunnen regels worden vastgesteld die de producent van de databank er toe verplichten aan de gebruiker van de databank voor het gebruik als omschreven in artikel 5, tweede lid, juncto artikel 15j van de Auteurswet de nodige middelen te verschaffen om van deze beperkingen te profiteren, mits de gebruiker rechtmatig toegang heeft tot de door de technische voorziening beschermde databank. Artikel 17d van de Auteurswet is van overeenkomstige toepassing.
 
 Artikel 5b.
 
